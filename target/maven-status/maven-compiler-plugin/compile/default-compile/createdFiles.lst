@@ -1,0 +1,7 @@
+com\buzzmove\test\controller\TaskController.class
+com\buzzmove\test\data\Task.class
+com\buzzmove\test\data\CustomerTitle.class
+com\buzzmove\test\service\DataLoader.class
+com\buzzmove\test\repository\TaskRepository.class
+com\buzzmove\test\service\TaskService.class
+com\buzzmove\test\Application.class
